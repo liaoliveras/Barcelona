@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Barcelona Site</title>
+	<!-- TemplateEndEditable -->
+	<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
+	<!-- TemplateParam name="History Secondary Menu" type="boolean" value="true" -->
+	<!-- TemplateParam name="Buildings" type="boolean" value="true" -->
+	<!-- TemplateParam name="Buildings Secondary Menu" type="boolean" value="true" -->
+	<!-- TemplateParam name="Restaurants Secondary Menu" type="boolean" value="true" -->
+	<!-- TemplateParam name="The Beach " type="boolean" value="true" -->
+</head>
+
+<body>
+	<table width="413" height="709">
+		<tr>
+			<td height="31" colspan="2">Banner</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<p>Home History Buildings Restaurants The Beach </p>
+				<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr></tr>
+		<tr>
+			<td width="226">
+				<table width="199" height="97">
+					<!-- TemplateBeginIf cond="_document['History Secondary Menu']" -->
+					<tr>
+						<td width="114">&nbsp;</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+					<!-- TemplateEndIf -->
+				</table>
+				<table width="201" height="134">
+					<!-- TemplateBeginIf cond="_document['Buildings Secondary Menu']" -->
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+					<!-- TemplateEndIf -->
+				</table>
+				<!-- TemplateBeginIf cond="_document['Restaurants Secondary Menu']" -->
+				<table width="198" height="140">
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+				</table>
+				<!-- TemplateBeginIf cond="_document['The Beach ']" -->
+				<table width="195" height="130">
+					<tr>
+						<td width="155">&nbsp;</td>
+					</tr>
+					<tr></tr>
+					<tr></tr>
+					<tr></tr>
+				</table>
+				<!-- TemplateEndIf -->
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<!-- TemplateEndIf -->
+				<p>&nbsp;</p>
+			</td>
+			<td width="175">Content</td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+	</table>
+</body>
+</html>
