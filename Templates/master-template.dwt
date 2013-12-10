@@ -15,13 +15,16 @@
 </head>
 
 <body>
-	<table width="413" height="709">
+	<table width="640" height="709">
 		<tr>
-			<td height="31" colspan="2">Banner</td>
+			<td height="31" colspan="2"><!-- TemplateBeginEditable name="Banner" -->
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<!-- TemplateEndEditable --></td>
 		</tr>
 		<tr>
 			<td colspan="2">
-				<p>Home History Buildings Restaurants The Beach </p>
+				<p><a href="../index.html">Home</a> <a href="../history/index.html">History</a> <a href="../buildings/index.html">Buildings</a> <a href="../restaurants/index.html">Restaurants</a> <a href="../the-beach/index.html">The Beach </a></p>
 				<p>&nbsp;</p>
 			</td>
 		</tr>
@@ -31,54 +34,69 @@
 				<table width="199" height="97">
 					<!-- TemplateBeginIf cond="_document['History Secondary Menu']" -->
 					<tr>
-						<td width="114">&nbsp;</td>
+						<td width="114"><a href="../history/origin.html">Origins</a></td>
 					</tr>
 					<tr>
-						<td>&nbsp;</td>
+						<td><a href="../history/barcelona-under-the-spanish-monarchy.html">Barcelona Under Spanish Monarchy</a></td>
 					</tr>
 					<tr>
-						<td>&nbsp;</td>
+						<td><a href="../history/franquism.html">Franquism</a></td>
 					</tr>
 					<tr>
-						<td>&nbsp;</td>
+						<td><a href="../history/modern-barcelona.html">Modern Barcelona</a></td>
 					</tr>
 					<!-- TemplateEndIf -->
 				</table>
 				<table width="201" height="134">
 					<!-- TemplateBeginIf cond="_document['Buildings Secondary Menu']" -->
-					<tr>
-						<td>&nbsp;</td>
+						<tr>
+						<td><a href="../buildings/la-sagrada-familia.html">La Sagrada Familia</a></td>
 					</tr>
 					<tr>
-						<td>&nbsp;</td>
+						<td><a href="../buildings/park-guell.html">Park Guell</a></td>
 					</tr>
 					<tr>
-						<td>&nbsp;</td>
+						<td><a href="../buildings/casa-mila.html">Casa Mila</a></td>
 					</tr>
 					<tr>
-						<td>&nbsp;</td>
+						<td><a href="../buildings/torre-agbar.html">Torre Agbar</a></td>
+					</tr>
+					<tr>
+						<td><a href="../buildings/casa-estape.html">Casa Estape</a></td>
+					</tr>
+					<tr>
+						<td><a href="../buildings/casa-batllo.html">Casa Batllo</a></td>
+					</tr>
+					<tr>
+						<td><a href="../buildings/camp-nou-stadium-barcelona.html">Camp Nou Stadium of F.C Barcelona</a></td>
+					</tr>
+					<tr>
+						<td><a href="../buildings/palau-de-la-musica.html">Palau de la Musica</a></td>
 					</tr>
 					<!-- TemplateEndIf -->
-				</table>
+	</table>
 				<!-- TemplateBeginIf cond="_document['Restaurants Secondary Menu']" -->
 				<table width="198" height="140">
 					<tr>
-						<td>&nbsp;</td>
+						<td><a href="../restaurants/london-bar.html">London Bar</a></td>
 					</tr>
 					<tr>
-						<td>&nbsp;</td>
+						<td><a href="../restaurants/moments.html">Moments</a></td>
 					</tr>
 					<tr>
-						<td>&nbsp;</td>
+						<td><a href="../restaurants/dos-palillos.html">Dos Palillos</a></td>
 					</tr>
 					<tr>
-						<td>&nbsp;</td>
+						<td><a href="../restaurants/tickets.html">Tickets</a></td>
+					</tr>
+					<tr>
+						<td><a href="../restaurants/arola.html">Arola</a></td>
 					</tr>
 				</table>
 				<!-- TemplateBeginIf cond="_document['The Beach ']" -->
-				<table width="195" height="130">
+				<table width="192" height="55">
 					<tr>
-						<td width="155">&nbsp;</td>
+						<td width="155"><!-- TemplateBeginEditable name="the beach" --><a href="../the-beach/barceloneta.html">La Barceloneta</a><!-- TemplateEndEditable --></td>
 					</tr>
 					<tr></tr>
 					<tr></tr>
@@ -90,7 +108,10 @@
 				<!-- TemplateEndIf -->
 				<p>&nbsp;</p>
 			</td>
-			<td width="175">Content</td>
+			<td width="402"><!-- TemplateBeginEditable name="Content" -->
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+			<!-- TemplateEndEditable --></td>
 		</tr>
 		<tr></tr>
 		<tr></tr>
